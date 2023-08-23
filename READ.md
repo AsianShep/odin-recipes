@@ -1,0 +1,1 @@
+This is for the odin project for the foundation course
